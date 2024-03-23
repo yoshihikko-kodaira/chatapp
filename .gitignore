@@ -33,3 +33,6 @@ npm-debug.log*
 
 # vercel
 .vercel
+
+# pathpida
+src/lib/pathpida/$path.ts

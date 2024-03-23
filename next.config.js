@@ -9,4 +9,5 @@ module.exports = {
   trailingSlash: true,
   eslint: { ignoreDuringBuilds: true },
   typescript: { ignoreBuildErrors: true },
+  experimental: { newNextLinkBehavior: false },
 };
